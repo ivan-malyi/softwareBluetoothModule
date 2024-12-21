@@ -1,0 +1,12 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/home/ivan/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-ftdi.cfg"
+    ],
+    "idf.port": "/dev/ttyS0",
+    "idf.toolsPath": "/home/ivan/.espressif/tools",
+    "files.associations": {
+        "esp_gatts_api.h": "c"
+    }
+}
